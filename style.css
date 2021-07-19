@@ -82,7 +82,7 @@ table tr td:first-child::before {
     padding: 75px;
     font-size: larger;
     width: 600px; 
-    height:600px; 
+    height:auto; 
     background-size: cover;
     text-align: center;
   
